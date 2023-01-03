@@ -1,0 +1,48 @@
+-----FIFO Algorithm-----
+Total number of processes: 100000
+Finished time: 1000027
+Utilization: 0.5502351436511215
+Throughput: 0.09999730007289803
+Average waiting time: 4.35515
+Average turnaround time: 9.85765
+Average response time: 5.35515
+-----SJF Algorithm-----
+Total number of processes: 100000
+Finished time: 1000027
+Utilization: 0.5502351436511215
+Throughput: 0.09999730007289803
+Average waiting time: 3.40206
+Average turnaround time: 8.90456
+Average response time: 4.40206
+-----P-SJF Algorithm-----
+Total number of processes: 100000
+Finished time: 1000027
+Utilization: 0.5502351436511215
+Throughput: 0.09999730007289803
+Average waiting time: 3.61004
+Average turnaround time: 9.11254
+Average response time: 2.82576
+-----RR Algorithm-----
+Total number of processes: 100000
+Finished time: 1000027
+Utilization: 0.5502351436511215
+Throughput: 0.09999730007289803
+Average waiting time: 6.36503
+Average turnaround time: 11.86753
+Average response time: 1.36875
+-----P Algorithm-----
+Total number of processes: 100000
+Finished time: 1000027
+Utilization: 0.5502351436511215
+Throughput: 0.09999730007289803
+Average waiting time: 4.3585
+Average turnaround time: 9.861
+Average response time: 5.3585
+-----P-P Algorithm-----
+Total number of processes: 100000
+Finished time: 1000027
+Utilization: 0.5502351436511215
+Throughput: 0.09999730007289803
+Average waiting time: 4.94493
+Average turnaround time: 10.44743
+Average response time: 4.16719
