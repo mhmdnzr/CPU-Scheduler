@@ -140,7 +140,7 @@ def p_p(queue: list):
 
 
 def main():
-    with open(sys.argv[1]) as f:
+    with open("jobs") as f:
         requests = f.readlines()
         requests = [request.split() for request in requests]
         jobs = [Process(request[0], int(request[1]), int(request[2]), int(request[3])) for request in requests]
